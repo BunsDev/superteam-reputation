@@ -46,7 +46,16 @@
     {
         "countryName": "Philippines",
         "countryCode": "PH"
+    }, 
+    {
+        "countryName": "Japan",
+        "countryCode": "JP"
+    }, 
+    {
+        "countryName": "France",
+        "countryCode": "FR"
     }
+    
     
     
     
